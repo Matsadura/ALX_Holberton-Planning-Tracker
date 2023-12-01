@@ -15,7 +15,6 @@ Note : For Holberton students replace ``https://intranet.alxswe.com`` with ``htt
 
 - **Real-time Tracking:** The script fetches the latest project information from the ALX / Holberton planning system.
 - **Discord Notifications:** Stay updated with timely alerts on your Discord server, ensuring you never miss a project deadline.
-- **Cohort 18 Focus:** Specifically tailored to monitor and notify about projects relevant to Cohort 18.
 
 ## Installation
 
