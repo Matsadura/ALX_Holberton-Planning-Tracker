@@ -11,6 +11,10 @@ The ALX / Holberton Planning Tracker is a Python script designed to track and ma
 
 Note : For Holberton students replace ``https://intranet.alxswe.com`` with ``https://intranet.hbtn.io``
 
+
+![demo](https://github.com/Matsadura/ALX_Holberton-Planning-Tracker/assets/132571698/c4b49ffd-b8cd-42a4-8396-f374ae720ed3)
+
+
 ## Features
 
 - **Real-time Tracking:** The script fetches the latest project information from the ALX / Holberton planning system.
