@@ -25,7 +25,7 @@ Note : For Holberton students replace ``https://intranet.alxswe.com`` with ``htt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ALX-Holberton-Planning-Tracker.git
+   git clone https://github.com/Matsadura/ALX_Holberton-Planning-Tracker
    ```
 
 2. Install dependencies:
