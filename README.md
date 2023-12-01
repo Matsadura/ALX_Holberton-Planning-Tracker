@@ -6,7 +6,7 @@
 
 ## Overview
 
-The ALX / Holberton Planning Tracker is a Python script designed to track and manage ongoing projects, providing timely alerts through Discord. It fetches project details, identifies the current tasks, and sends notifications to keep users informed about upcoming deadlines.
+The ALX / Holberton Planning Tracker is a Python script designed to track and manage ongoing projects, providing timely alerts through Discord. It fetches project details and sends notifications to keep users informed about upcoming deadlines.
 
 
 Note : For Holberton students replace ``https://intranet.alxswe.com`` with ``https://intranet.hbtn.io``
