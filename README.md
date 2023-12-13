@@ -67,3 +67,14 @@ Feel free to contribute, report issues, or suggest enhancements. Happy tracking!
 ---
 
 *This project is not affiliated with ALX or Holberton. It is an independent tool created for personal use.*
+
+
+## More Projects
+
+[Monty Language Interpreter](https://github.com/Matsadura/monty)
+
+[Simple Shell](https://github.com/Matsadura/simple_shell)
+
+[Printf Implementation](https://github.com/Matsadura/printf)
+
+[ALX Time Saver](https://github.com/Matsadura/ALX_Time_Saver)
